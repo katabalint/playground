@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 700px;
+}
+
+body {
+    margin: 2rem;
+    font-family: Ubuntu, sans-serif;
+}
+
+.main {
+    min-width: 400px;
+    height: 200px;
+    background: url("../style/header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 0 40px 0;
+}

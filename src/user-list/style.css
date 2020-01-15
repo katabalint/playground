@@ -1,0 +1,24 @@
+img {
+    width: 50px;
+    height: 50px;
+}
+.btn:hover {
+    letter-spacing: 0.8em;
+    background-color: #1abc9c;
+}
+
+.btn {
+    color: white;
+}
+button {
+    height: 4em;
+    width: 100%;
+    padding: 1.5em auto;
+    margin: 1em auto;
+    background-color: #bdc3c7;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
